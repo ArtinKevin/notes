@@ -4,5 +4,5 @@ Here are my notes. They may have some mistakes, if you find them, please email m
 
 #### The following notes are written in Chinese.
 
-### [Useful Links](https://ziyangzhu.github.io/Links/)
+### [Useful Links]( https://artinkevin.github.io/Links/)
 
