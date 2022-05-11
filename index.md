@@ -5,7 +5,6 @@ Here are my notes. They may have some mistakes, if you find them, please email m
 #### The following notes are written in Chinese.
 ##### **[Nevanlinna value distribution theory with its applications and generalizations]()** _Update: May 12, 2022_
 This is a expository.I wrote it for my senior thesis in college.It aims to introduce the basic Nevanlinna value distribution theory with its applications and generalizations,including three parts:classical theory and its applications in function theory,the generalization of value distribution theory in high-dimensional complex manifolds,the relationship between value distribution theory and Diophantine approximation.
-can be read on the basis of linear algebra and abstract algebra, but it may be a little boring to read.
 
 ### [Useful Links]( https://artinkevin.github.io/Links/)
 
